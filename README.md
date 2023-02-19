@@ -1,6 +1,6 @@
 # Práctica 7.3 Calculadora científica y de conversiones en JavaFX
 
-> **Advertencia**
+> **Warning**
 > El proyecto deberá venir empaquetado como mínimo en un único fichero **jar** u opcionalmente en un ejecutable de Windows para poder ejecutarse.
 
 ## Parte 1
