@@ -12,7 +12,7 @@ La **calculadora científica** deberá tener al menos las operaciones trigonomé
 
 Agrega otra opción al menú para tener una **calculadora de conversiones**.
 
-- El *sistema de conversiones* deberá tener un combobox principal para seleccionar el método de conversión; deberá poder hacer 4 tipos de conversiones, incluída la monetaria (agregar otras como longitud, tiempo, etc.). 
+- El *sistema de conversiones* deberá tener un combobox principal para seleccionar el método de conversión; deberá poder hacer 3 tipos de conversiones, incluída la monetaria (agregar otras como longitud, tiempo, etc.). 
 - Se deberán agregar dos *combobox* de valor de origen y valor destino. 
 - Para las conversiones monetarias se deberá fijar el *valor de conversión* desde una ventana modal abierta desde un menú edición.
 
