@@ -5,7 +5,7 @@
 
 ## Parte 1
 
-Mejora la calculadora anterior agregándole un **menú superior** que permita alternar entre la calculadora normal y una calculadora científica.
+Mejora la calculadora de la práctica anterior agregándole un **menú superior** que permita alternar entre la calculadora normal y una nueva calculadora científica.
 
 La **calculadora científica** deberá tener al menos las operaciones trigonométricas, exponenciales o porcentajes.
 
