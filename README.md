@@ -20,3 +20,7 @@ Agrega otra opción al menú para tener una **calculadora de conversiones**.
 - Para las conversiones monetarias se deberá fijar el *valor de conversión* desde una ventana modal abierta desde un menú edición.
 
 ![](media/126bf43674a0d594d81f65c6646a27ef.png)
+
+## Parte 3 (opcional)
+
+Agrega un historial de operaciones sencillo que utilice un *listView* para almacenarlos.
