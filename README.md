@@ -23,4 +23,8 @@ Agrega otra opción al menú para tener una **calculadora de conversiones**.
 
 ## Parte 3 (opcional)
 
-Agrega un historial de operaciones sencillo que utilice un *listView* para almacenarlos.
+Realiza algunas de estas mejoras:
+
+- Agrega un historial de operaciones sencillo que utilice un *listView* para almacenarlos.
+
+- Agrega **responsividad** a la calculadora científica de forma que la ventana sea redimensionable. Si a la calculadora científica se le reduce el tamaño pasará a ser calculadora normal y si se vuelve a ampliar calculadora científica.
