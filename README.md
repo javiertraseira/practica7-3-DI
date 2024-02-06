@@ -7,7 +7,8 @@
 
 Mejora la calculadora de la práctica anterior agregándole un **menú superior** que permita alternar entre la calculadora normal y una nueva calculadora científica que se cargará dentro del mismo *stage*.
 
-La **calculadora científica** deberá tener al menos las operaciones trigonométricas y los exponenciales o porcentajes.
+- El menú superior mostrará también dos entradas de *Edición* y *Ayuda*.
+- La **calculadora científica** deberá tener al menos las operaciones trigonométricas y los exponenciales o porcentajes.
 
 ![](media/bdec2b6b440937887cd40bd8192d909d.png) 
 
