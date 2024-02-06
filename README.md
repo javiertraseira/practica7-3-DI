@@ -15,15 +15,15 @@ La **calculadora científica** deberá tener al menos las operaciones trigonomé
 
 Agrega otra opción al menú para tener una **calculadora de conversiones**.
 
-- El *sistema de conversiones* deberá tener un combobox principal para seleccionar el método de conversión; deberá poder hacer 3 tipos de conversiones, incluída la monetaria (agregar otras como longitud, tiempo, etc.). 
+- El *sistema de conversiones* deberá tener un *Combobox* principal para seleccionar el método de conversión; deberá poder hacer 3 tipos de conversiones, incluída la monetaria (agregar otras como longitud, tiempo, etc.). 
 - Se deberán agregar dos *combobox* de valor de origen y valor destino. 
-- Para las conversiones monetarias se deberá fijar el *valor de conversión* desde una ventana modal abierta desde un menú edición.
+- Para las conversiones monetarias se deberá fijar el *valor de conversión* desde otra ventana modal que se abrirá desde el menú edición.
 
 ![](media/126bf43674a0d594d81f65c6646a27ef.png)
 
 ## Parte 3 (opcional)
 
-Realiza algunas de estas mejoras:
+Realiza algunas de estas mejoras propuestas:
 
 - Agrega un historial de operaciones sencillo que utilice un *listView* para almacenarlos.
 
