@@ -18,7 +18,7 @@ Agrega otra opción al menú para tener una **calculadora de conversiones**.
 
 - El *sistema de conversiones* deberá tener un *Combobox* principal para seleccionar el método de conversión; deberá poder hacer 3 tipos de conversiones, incluída la monetaria (agregar otras como longitud, tiempo, etc.). 
 - Se deberán agregar dos *combobox* de valor de origen y valor destino. 
-- Para las conversiones monetarias se deberá fijar el *valor de conversión* desde otra ventana modal que se abrirá desde el menú edición.
+- Para las conversiones monetarias se deberá fijar el *valor de conversión* desde otra **ventana modal** que se abrirá desde el menú Edición.
 
 ![](media/126bf43674a0d594d81f65c6646a27ef.png)
 
