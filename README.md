@@ -1,4 +1,4 @@
-# Práctica 7.3 Calculadora científica y de conversiones en JavaFX
+# Práctica 7.3 Calculadora científica y de conversiones
 
 > **Warning**
 > El proyecto deberá venir empaquetado como mínimo en un único fichero **jar**, y opcionalmente, en un ejecutable de Windows para poder ejecutarse.
