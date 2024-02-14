@@ -27,7 +27,7 @@ Agrega otra opción al menú para tener una **calculadora de conversiones**.
 
 Realiza algunas de estas mejoras propuestas:
 
-- Agrega un historial de operaciones sencillo que utilice un *listView* para almacenarlos.
-- Agrega un acceso a una API para obtener el valor del cambio.
+- Agrega un **historial** de operaciones sencillo que utilice un *listView* para almacenarlos.
+- Agrega un acceso a una **API** para obtener el valor del cambio.
 - Agrega **Responsividad** a la calculadora científica de forma que la ventana sea redimensionable. Si a la calculadora científica se le reduce el tamaño pasará a ser calculadora normal y si se vuelve a ampliar calculadora científica.
-- Agrega una gráfica para representar funciones matemáticas.
+- Agrega una **gráfica** para representar funciones matemáticas.
