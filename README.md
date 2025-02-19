@@ -16,9 +16,9 @@ Mejora la calculadora de la práctica anterior agregándole un **menú superior*
 
 ## Parte 2
 
-Agrega otra opción al menú para tener una **calculadora de conversiones**.
+Agrega otra opción al menú para tener una **calculadora de conversiones** que abra otra nueva ventana:
 
-- El *sistema de conversiones* deberá tener un *Combobox* principal para seleccionar el método de conversión; deberá poder hacer 3 tipos de conversiones, incluída la monetaria (agregar otras como longitud, tiempo, etc.). 
+- El *sistema de conversiones* deberá tener un *Combobox* principal para seleccionar el método de conversión; deberá poder hacer 2-3 tipos de conversiones, incluída la monetaria (agregar otras como longitud, tiempo, etc.). 
 - Se deberán agregar dos *combobox* de valor de origen y valor destino. 
 - Para las conversiones monetarias se deberá fijar el *valor de conversión* desde otra **ventana modal** que se abrirá desde el menú Edición.
 
@@ -54,7 +54,10 @@ Realiza algunas de estas mejoras propuestas:
 | CP-017       | Presionar dos veces botón igual                  | = =                | mantiene valor |           |
 | CP-018       | Presionar botón operación dos veces              | + *                | cambia + a *   |           |
 | CP-019       | Los colores y tamaños de los botones cumplen criterios de usabilidad/accesibilidad    | N/D           |    |      |
-| CP-020       | Presionar botón operación dos veces              | + *                | cambia + a *   |           |
-| CP-020       | Estructura del proyecto                          | N/D                | Se utiliza la división por paquetes MVC; VistaControl
+| CP-020       | Seleccionar el modo en el menú                   | normal, científica, conversión       | cambiar modo   |           |
+| CP-021       | Seleccionar el menú edición>borrar               |                    | borrar campos   |           |
+| CP-022       | Elegir combobox de conversiones                  | Desplegar opción   | Ajuste combobox origen-destino   |           |
+| CP-023       | Realizar conversiones                            | Valor conversión   | Conversión en unidades de destino   |           |
+| CP-024       | Estructura del proyecto                          | N/D                | Se utiliza la división por paquetes MVC; VistaControl
 Modelo para organizar las clases. |     |
-| CP-021       | Comprobación fichero `jar`                       | Proyecto compilado | Se genera y prueba el fichero `jar` empaquetado. |  |
+| CP-025       | Comprobación fichero `jar`                       | Proyecto compilado | Se genera y prueba el fichero `jar` empaquetado. |  |
