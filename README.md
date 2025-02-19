@@ -1,6 +1,6 @@
 # Práctica 7.3 Calculadora científica y de conversiones
 
-Esta práctica será evaluada para el proyecto de final de trimestre.
+Esta práctica será evaluada para el *proyecto de final de trimestre* junto con el proyecto de la web en Bootstrap/JavaScript.
 
 > **Warning**
 > El proyecto deberá venir empaquetado como mínimo en un único fichero **jar**, y opcionalmente, en un ejecutable de Windows para poder ejecutarse.
@@ -25,7 +25,7 @@ Agrega otra opción al menú para tener una **calculadora de conversiones**.
 
 ![](media/126bf43674a0d594d81f65c6646a27ef.png) ![](media/VentanaValorconversiones-Calculadora.png) 
 
-## Parte 3 (opcional)
+## Parte 3 (mejoras opcionales)
 
 Realiza algunas de estas mejoras propuestas:
 
