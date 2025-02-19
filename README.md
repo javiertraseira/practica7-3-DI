@@ -1,5 +1,7 @@
 # Práctica 7.3 Calculadora científica y de conversiones
 
+Esta práctica será evaluada para el proyecto de final de trimestre.
+
 > **Warning**
 > El proyecto deberá venir empaquetado como mínimo en un único fichero **jar**, y opcionalmente, en un ejecutable de Windows para poder ejecutarse.
 
