@@ -1,6 +1,6 @@
 # Práctica 7.3 Calculadora científica y de conversiones
 
-Esta práctica será evaluada para el *proyecto de final de trimestre* junto con el proyecto de la web en Bootstrap/JavaScript.
+Esta práctica será evaluada para el **proyecto de final de trimestre** junto con la web en *Bootstrap/JavaScript* con llamadas a API.
 
 
 ## Parte 1
