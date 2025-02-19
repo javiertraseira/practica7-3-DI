@@ -51,13 +51,13 @@ Realiza algunas de estas mejoras propuestas:
 | CP-014       | Recuperar número de memoria                      | MR                 | Último valor M |           |
 | CP-015       | Cambio de signo positivo a negativo              | 5, +/-             | -5             |           |
 | CP-016       | Cambio de signo negativo a positivo              | -7, +/-            | 7              |           |
-| CP-017       | Presionar dos veces botón igual                  | = =                | mantiene valor actual |           |
-| CP-018       | Presionar botón operación dos veces              | + *                | cambia + a *   |           |
-| CP-019       | Los colores y tamaños de los botones cumplen criterios de usabilidad/accesibilidad    | N/D           |  cumple WCAG nivel A y criterios de accesibilidad básicos   |      |
+| CP-017       | Presionar dos veces botón igual                  | = =                | Mantiene valor actual |           |
+| CP-018       | Presionar botón operación dos veces              | + *                | Cambia + a *   |           |
+| CP-019       | Los colores y tamaños de los botones cumplen criterios de usabilidad/accesibilidad    | N/D           |  Cumple WCAG nivel A y criterios de accesibilidad básicos   |      |
 | CP-020       | Seleccionar el modo en el menú                   | normal, científica, conversión       | cambiar modo   |           |
-| CP-021       | Seleccionar el menú edición>borrar               |                    | borrar campos   |           |
-| CP-021       | Seleccionar el menú ayuda>acerca                 |                    | mostrar ventana modal alert-info   |           |
+| CP-021       | Seleccionar el menú edición>borrar               |                    | Borrar campos   |           |
+| CP-021       | Seleccionar el menú ayuda>acerca                 |                    | Mostrar ventana modal alert-info   |           |
 | CP-022       | Elegir combobox de conversiones                  | Desplegar opción   | Ajuste combobox origen-destino   |           |
 | CP-023       | Realizar conversiones                            | Valor conversión   | Conversión en unidades de destino   |           |
-| CP-024       | Estructura del proyecto                          | N/D                | Se utiliza la división por paquetes MVC; Vista-Control-Modelo para organizar las clases. |     |
+| CP-024       | Estructura del proyecto                          | N/D                | Se utiliza la división por paquetes `MVC`; Vista-Control-Modelo para organizar las clases. |     |
 | CP-025       | Comprobación fichero `jar`                       | Proyecto compilado | Se genera y prueba el fichero `jar` empaquetado. |  |
