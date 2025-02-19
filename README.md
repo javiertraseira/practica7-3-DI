@@ -59,5 +59,5 @@ Realiza algunas de estas mejoras propuestas:
 | CP-021       | Seleccionar el menú ayuda>acerca                 |                    | Mostrar ventana modal alert-info   |           |
 | CP-022       | Elegir combobox de conversiones                  | Desplegar opción   | Ajuste combobox origen-destino   |           |
 | CP-023       | Realizar conversiones                            | Valor conversión   | Conversión en unidades de destino   |           |
-| CP-024       | Estructura del proyecto                          | N/D                | Se utiliza la división por paquetes `MVC`; Vista-Control-Modelo para organizar las clases. |     |
+| CP-024       | Estructura del proyecto                          | N/D                | Se utiliza la división por paquetes `MVC`; Vista Controlador Modelo para organizar las clases. |     |
 | CP-025       | Comprobación fichero `jar`                       | Proyecto compilado | Se genera y prueba el fichero `jar` empaquetado. |  |
